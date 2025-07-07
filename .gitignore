@@ -1,0 +1,18 @@
+# Jupyter + Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Data
+/data/*
+!/data/.gitkeep
+
+# Model Outputs
+/outputs/*
+!/outputs/model/
+!/outputs/metrics/
+!/outputs/interpretations/
+
+# Hugging Face cache (if any)
+~/.cache/huggingface/
+
