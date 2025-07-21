@@ -94,6 +94,8 @@ truck        | 0.85      | 0.92   | 0.88
 
 - Confusion matrix shows strong diagonal dominance, indicating accurate classification across most classes.
 
+<img width="759" height="609" alt="Screenshot 2025-07-21 at 3 56 03 PM" src="https://github.com/user-attachments/assets/04dd9ade-47a8-4d63-82d8-e6b5cd39f95b" />
+
 ------------------------------------------------------------
 
 ## Grad-CAM Visualizations
@@ -102,6 +104,9 @@ truck        | 0.85      | 0.92   | 0.88
 - Heatmaps consistently highlighted object regions (e.g., cat’s face, ship’s hull).
 - Visual overlays confirmed predictions were based on relevant regions.
 - Grad-CAM overlays are saved as downloadable PNG files within the app and in /outputs/interpretations/.
+
+<img width="497" height="378" alt="Screenshot 2025-07-21 at 3 56 08 PM" src="https://github.com/user-attachments/assets/13ba8d6a-4dc5-4e13-ab59-784b9c5c3c65" />
+
 
 In the deployed Gradio app:
 - Top-3 predictions and probabilities are displayed.
