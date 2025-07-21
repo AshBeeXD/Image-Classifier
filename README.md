@@ -8,7 +8,7 @@ https://huggingface.co/spaces/ashbeexd/image_prediction
 ------------------------------------------------------------
 
 ## Project Structure
-
+'''
 image-classifier/
 |
 ├── app/                   # Hugging Face Space interface
@@ -33,7 +33,7 @@ image-classifier/
 |
 ├── requirements.txt       # Dependencies
 └── README.md
-
+'''
 ------------------------------------------------------------
 
 ## Model Overview
