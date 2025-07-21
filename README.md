@@ -58,14 +58,23 @@ Grad-CAM is integrated for visual explanations of model predictions.
 Training was executed over 10 epochs with progressive improvements in validation accuracy:
 
 Epoch 1 : Accuracy = 57.28%
+
 Epoch 2 : Accuracy = 68.96%
+
 Epoch 3 : Accuracy = 70.68%
+
 Epoch 4 : Accuracy = 72.18%
+
 Epoch 5 : Accuracy = 75.00%
+
 Epoch 6 : Accuracy = 75.94%
+
 Epoch 7 : Accuracy = 79.70%
+
 Epoch 8 : Accuracy = 81.20%
+
 Epoch 9 : Accuracy = 83.10%
+
 Epoch 10: Accuracy = 83.80%
 
 The best model (83.80% accuracy) was saved at the end of training.
